@@ -1,0 +1,7 @@
+c:\users\kofu\documents\visual studio 2010\Projects\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe
+c:\users\kofu\documents\visual studio 2010\Projects\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.pdb
+c:\users\kofu\documents\visual studio 2010\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Properties.Resources.resources
+c:\users\kofu\documents\visual studio 2010\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.csproj.GenerateResource.Cache
+c:\users\kofu\documents\visual studio 2010\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.exe
+c:\users\kofu\documents\visual studio 2010\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.pdb
+c:\users\kofu\documents\visual studio 2010\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\x86\Debug\WindowsFormsApplication13.Session_Ermolenko_3_Sign_in.resources
